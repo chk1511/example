@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=EUC-KR">
-<title>Insert title here</title>
+<title>Test</title>
 </head>
 <body>
- Hello World!
+자동 배포 성공!
 </body>
 </html>
