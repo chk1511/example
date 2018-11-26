@@ -7,6 +7,6 @@
 <title>Test</title>
 </head>
 <body>
-자동 배포 성공!
+첫 번째 Hello World!
 </body>
 </html>
