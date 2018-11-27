@@ -7,6 +7,6 @@
 <title>Test</title>
 </head>
 <body>
-Ã¹ ¹øÂ° Hello World!
+Hello World!
 </body>
 </html>
