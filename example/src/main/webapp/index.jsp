@@ -7,7 +7,6 @@
 <title>Test</title>
 </head>
 <body>
- <h2>1</h2>
- Hello World!
+Hello World!
 </body>
 </html>
