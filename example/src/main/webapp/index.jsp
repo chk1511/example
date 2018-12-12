@@ -8,6 +8,5 @@
 </head>
 <body>
  <h2>Test Success!!</h2>
- Hello World!
 </body>
 </html>
